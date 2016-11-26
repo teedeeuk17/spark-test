@@ -1,0 +1,7 @@
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Domain\bin\Release\Art.Domain.dll
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Domain\bin\Release\Art.Domain.pdb
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Domain\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Domain\bin\Release\Newtonsoft.Json.xml
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Domain\obj\Release\2.Art.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Domain\obj\Release\Art.Domain.dll
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Domain\obj\Release\Art.Domain.pdb

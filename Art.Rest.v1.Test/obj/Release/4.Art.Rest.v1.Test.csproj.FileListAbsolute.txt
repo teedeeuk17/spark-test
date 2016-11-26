@@ -1,0 +1,7 @@
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1.Test\bin\Release\Art.Rest.v1.Test.exe.config
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1.Test\bin\Release\Art.Rest.v1.Test.exe
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1.Test\bin\Release\Art.Rest.v1.Test.pdb
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1.Test\obj\Release\Art.Rest.v1.Test.exe
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1.Test\obj\Release\Art.Rest.v1.Test.pdb
