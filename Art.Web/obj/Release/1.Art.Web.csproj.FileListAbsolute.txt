@@ -53,3 +53,5 @@ C:\Users\Tony\Documents\GitHub\spark-test\Art.Web\bin\DotNetOpenAuth.OpenId.Rely
 C:\Users\Tony\Documents\GitHub\spark-test\Art.Web\obj\Release\1.Art.Web.csprojResolveAssemblyReference.cache
 C:\Users\Tony\Documents\GitHub\spark-test\Art.Web\obj\Release\Art.Web.dll
 C:\Users\Tony\Documents\GitHub\spark-test\Art.Web\obj\Release\Art.Web.pdb
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Web\bin\Art.Web.dll.CodeAnalysisLog.xml
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Web\bin\Art.Web.dll.lastcodeanalysissucceeded

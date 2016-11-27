@@ -13,3 +13,5 @@ C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1\bin\Release\System.Web.Htt
 C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1\obj\Release\3.Art.Rest.v1.csprojResolveAssemblyReference.cache
 C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1\obj\Release\Art.Rest.v1.dll
 C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1\obj\Release\Art.Rest.v1.pdb
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1\bin\Release\Art.Rest.v1.dll.CodeAnalysisLog.xml
+C:\Users\Tony\Documents\GitHub\spark-test\Art.Rest.v1\bin\Release\Art.Rest.v1.dll.lastcodeanalysissucceeded
